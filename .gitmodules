@@ -1,0 +1,4 @@
+[submodule "themes/bootstrap-lite"]
+	path = themes/bootstrap-lite
+	url = https://github.com/BaoDelta/hexo-theme-bootstrap-lite
+	branch = baod.io
