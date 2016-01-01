@@ -8,7 +8,7 @@ subtitle:
 description: Yet another passionate developer, based in Sydney - Australia
 author: Bao Dang
 language:
-timezone:
+timezone: Australia/Sydney
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
