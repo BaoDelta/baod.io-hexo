@@ -74,3 +74,15 @@ deploy:
   type: git
   repo: git@github.com:BaoDelta/baod.io.git
   branch: master
+
+html_minifier:
+  enable: true
+
+css_minifier:
+  enable: true
+
+js_minifier:
+  enable: true
+
+image_minifier:
+  enable: true
