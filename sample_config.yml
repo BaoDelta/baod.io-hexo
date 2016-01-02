@@ -71,9 +71,11 @@ theme: bootstrap-lite
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:BaoDelta/baod.io.git
-  branch: master
+  type: rsync
+  port: 22
+  # host:
+  # user:
+  # root:
 
 html_minifier:
   enable: true
